@@ -1,6 +1,7 @@
-package com.licou;
+package Day_3_14;
 import java.util.Scanner;
 //两数相加
+
 // 定义一个名为numbers的整型数组
 //int[] numbers;
 
@@ -42,3 +43,12 @@ public class lsxj {
         }
     }
 }
+
+    //创建哈希表
+//    Map<Integer,Integer> hashtable=new HashMap<Integer,Integer>();
+//        for(int i=0;i<nums.length;++i){
+//        if(hashtable.containsKey(target-nums[i]))
+//        return new int[]{hashtable.get(target-nums[i]),i};
+//        hashtable.put(nums[i],i);
+//        }
+//        return new int[0];
