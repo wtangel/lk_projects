@@ -1,4 +1,4 @@
-package com.licou;
+package Day_3_14;
 import java.util.Scanner;
 //移动0
 public class move_0 {
