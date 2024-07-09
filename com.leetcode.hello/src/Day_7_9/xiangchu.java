@@ -1,4 +1,4 @@
-package com.licou.test;
+package Day_7_9;
 import java.util.Scanner;
 public class xiangchu {
     public static void main(String[] args) {
